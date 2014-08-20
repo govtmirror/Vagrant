@@ -6,9 +6,9 @@ This repository is used to store assorted Virtual Machines in the form of a Vagr
 Dependencies
 ============
 
-Vagrant
+(Vagrant)[https://www.vagrantup.com]
 
-VirtualBox
+(VirtualBox)[https://www.virtualbox.org]
 
 Usage
 =======
