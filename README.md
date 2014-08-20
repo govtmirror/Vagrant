@@ -14,7 +14,7 @@ Usage
 =======
 Assuming that the dependencies are installed, open a terminal (terminal, windows power shell, iterm, etc.) and:
 
-* Clone this repository using the standard github method (git pull)[http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository]
+* Clone this repository using the standard github method [git pull](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository)
 * Navigate (`cd`) into the directory with the Vagrantfile for the VM you wish to use.
 * Run `vagrant up`
 
